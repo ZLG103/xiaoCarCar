@@ -1,0 +1,420 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>4.26.2</SDKVersion>
+	<Host>Autodesk 3dsmax 20.0.966V-Ray Next, update 3.1</Host>
+	<Application Vendor="Autodesk" ProductName="3dsmax" ProductVersion="20.0.966"/>
+	<ResourcePath></ResourcePath>
+	<User ID="e92eb80749537787d6df8e9ea6e0f73d" OS="Windows 8"/>
+	<StaticMesh name="93" label="Cadillac_ElDorado_1959_cubierta">
+		<file path="car-test-luntai_Assets/93.udsmesh"/>
+		<Size a="169.015259" x="2.169688" y="6.737842" z="6.737843"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c0ad1215d81858457d7a716a76d624b8"/>
+		<Material id="1" name="cubierta"/>
+		<Material id="2" name="cubierta2"/>
+	</StaticMesh>
+	<StaticMesh name="90" label="Cadillac_ElDorado_1959_llanta">
+		<file path="car-test-luntai_Assets/90.udsmesh"/>
+		<Size a="0.688807" x="0.238617" y="0.386289" z="0.386289"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="35eaa108384562f11b17f36653fca7b7"/>
+		<Material id="1" name="15_-_Default"/>
+	</StaticMesh>
+	<StaticMesh name="98" label="Cadillac_ElDorado_1959_cubierta001">
+		<file path="car-test-luntai_Assets/98.udsmesh"/>
+		<Size a="169.015259" x="2.169688" y="6.737842" z="6.737843"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c0ad1215d81858457d7a716a76d624b8"/>
+		<Material id="1" name="cubierta"/>
+		<Material id="2" name="cubierta2"/>
+	</StaticMesh>
+	<StaticMesh name="100" label="Cadillac_ElDorado_1959_llanta001">
+		<file path="car-test-luntai_Assets/100.udsmesh"/>
+		<Size a="0.688807" x="0.238617" y="0.386289" z="0.386289"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="35eaa108384562f11b17f36653fca7b7"/>
+		<Material id="1" name="15_-_Default"/>
+	</StaticMesh>
+	<StaticMesh name="103" label="Cadillac_ElDorado_1959_llanta002">
+		<file path="car-test-luntai_Assets/103.udsmesh"/>
+		<Size a="0.688807" x="0.238617" y="0.386289" z="0.386289"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="35eaa108384562f11b17f36653fca7b7"/>
+		<Material id="1" name="15_-_Default"/>
+	</StaticMesh>
+	<StaticMesh name="105" label="Cadillac_ElDorado_1959_cubierta002">
+		<file path="car-test-luntai_Assets/105.udsmesh"/>
+		<Size a="169.015259" x="2.169688" y="6.737842" z="6.737843"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c0ad1215d81858457d7a716a76d624b8"/>
+		<Material id="1" name="cubierta"/>
+		<Material id="2" name="cubierta2"/>
+	</StaticMesh>
+	<StaticMesh name="106" label="Cadillac_ElDorado_1959_cubierta003">
+		<file path="car-test-luntai_Assets/106.udsmesh"/>
+		<Size a="169.015259" x="2.169688" y="6.737842" z="6.737843"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c0ad1215d81858457d7a716a76d624b8"/>
+		<Material id="1" name="cubierta"/>
+		<Material id="2" name="cubierta2"/>
+	</StaticMesh>
+	<StaticMesh name="108" label="Cadillac_ElDorado_1959_llanta003">
+		<file path="car-test-luntai_Assets/108.udsmesh"/>
+		<Size a="0.688807" x="0.238617" y="0.386289" z="0.386289"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="35eaa108384562f11b17f36653fca7b7"/>
+		<Material id="1" name="15_-_Default"/>
+	</StaticMesh>
+	<Actor name="95" label="Cadillac_ElDorado_1959_rueda" layer="0">
+		<Transform tx="-79.003128" ty="-180.01712" tz="36.348785" sx="1.222525" sy="1.222525" sz="1.222525" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 95" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="93" label="Cadillac_ElDorado_1959_cubierta" layer="0">
+				<mesh name="93"/>
+				<Transform tx="-77.919014" ty="-180.01712" tz="36.348785" sx="12.760138" sy="10.842026" sz="10.842026" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 93" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 95" />
+			</ActorMesh>
+			<ActorMesh name="90" label="Cadillac_ElDorado_1959_llanta" layer="0">
+				<mesh name="90"/>
+				<Transform tx="-79.343605" ty="-180.01712" tz="36.348785" sx="122.257721" sy="122.257721" sz="122.257721" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 90" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 95" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="99" label="Cadillac_ElDorado_1959_rueda001" layer="0">
+		<Transform tx="-73.17865" ty="154.595398" tz="36.348785" sx="1.222525" sy="1.222525" sz="1.222525" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 99" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="98" label="Cadillac_ElDorado_1959_cubierta001" layer="0">
+				<mesh name="98"/>
+				<Transform tx="-72.094536" ty="154.595398" tz="36.348785" sx="12.760138" sy="10.842026" sz="10.842026" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 98" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 99" />
+			</ActorMesh>
+			<ActorMesh name="100" label="Cadillac_ElDorado_1959_llanta001" layer="0">
+				<mesh name="100"/>
+				<Transform tx="-73.519127" ty="154.595398" tz="36.348785" sx="122.257721" sy="122.257721" sz="122.257721" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 100" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 99" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="104" label="Cadillac_ElDorado_1959_rueda002" layer="0">
+		<Transform tx="93.781113" ty="-180.01712" tz="36.348785" sx="-1.222525" sy="-1.222525" sz="-1.222525" qx="-1.0" qy="0.0" qz="0.0" qw="0.0" qhex="000080BF000000000000008000000000"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 104" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="103" label="Cadillac_ElDorado_1959_llanta002" layer="0">
+				<mesh name="103"/>
+				<Transform tx="94.12159" ty="-180.01712" tz="36.348785" sx="-122.257721" sy="-122.257721" sz="-122.257721" qx="1.0" qy="0.0" qz="0.0" qw="0.0" qhex="0000803F000000800000008000000000"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 103" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 104" />
+			</ActorMesh>
+			<ActorMesh name="105" label="Cadillac_ElDorado_1959_cubierta002" layer="0">
+				<mesh name="105"/>
+				<Transform tx="92.696999" ty="-180.01712" tz="36.348785" sx="-12.760138" sy="-10.842026" sz="-10.842026" qx="1.0" qy="0.0" qz="0.0" qw="0.0" qhex="0000803F000000800000008000000000"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 105" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 104" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="107" label="Cadillac_ElDorado_1959_rueda003" layer="0">
+		<Transform tx="87.956635" ty="154.595398" tz="36.348785" sx="-1.222525" sy="-1.222525" sz="-1.222525" qx="-1.0" qy="0.0" qz="0.0" qw="0.0" qhex="000080BF000000000000008000000000"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 107" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="106" label="Cadillac_ElDorado_1959_cubierta003" layer="0">
+				<mesh name="106"/>
+				<Transform tx="86.87252" ty="154.595398" tz="36.348785" sx="-12.760138" sy="-10.842026" sz="-10.842026" qx="1.0" qy="0.0" qz="0.0" qw="0.0" qhex="0000803F000000800000008000000000"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 106" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 107" />
+			</ActorMesh>
+			<ActorMesh name="108" label="Cadillac_ElDorado_1959_llanta003" layer="0">
+				<mesh name="108"/>
+				<Transform tx="88.297112" ty="154.595398" tz="36.348785" sx="-122.257721" sy="-122.257721" sz="-122.257721" qx="1.0" qy="0.0" qz="0.0" qw="0.0" qhex="0000803F000000800000008000000000"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 108" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 107" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="ts-zoom-l-RHD-II-225-side_2_2_Tex" label="ts-zoom-l-RHD-II-225-side_2_2_Tex" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="car-test-luntai_Assets/ts-zoom-l-RHD-II-225-side.png">
+		<Hash value="e3671ea7391f40457111756d3cd8f410"/>
+	</Texture>
+	<Texture name="llanta_2_199978_Tex" label="llanta_2_199978_Tex" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="0.999990" srgb="0" file="car-test-luntai_Assets/llanta.png">
+		<Hash value="11b9a599bf3aca3641e45e26c81757e0"/>
+	</Texture>
+	<UEPbrMaterial name="cubierta">
+		<Expressions>
+			<Color Name="Diffuse" constant="(R=0.015686,G=0.015686,B=0.015686,A=1.000000)"/>
+			<Color Name="Reflection" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Desaturation Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</Desaturation>
+			<Scalar Name="Reflection_Glossiness" constant="0.6"/>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="3" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+			</OneMinus>
+			<Power Name="">
+				<KeyValueProperty name="ConstExponent" type="Float" val="1.500000"/>
+				<Input Name="0" expression="5" OutputIndex="0"/>
+			</Power>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="15" OutputIndex="0"/>
+				<Input Name="2" expression="2" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Fresnel_IOR" constant="1.6"/>
+			<Scalar Name="" constant="-1.0"/>
+			<Add Name="">
+				<Input Name="0" expression="8" OutputIndex="0"/>
+				<Input Name="1" expression="9" OutputIndex="0"/>
+			</Add>
+			<Multiply Name="">
+				<Input Name="0" expression="10" OutputIndex="0"/>
+				<Input Name="1" expression="12" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="" constant="0.02"/>
+			<Power Name="">
+				<Input Name="0" expression="11" OutputIndex="0"/>
+				<Input Name="1" expression="14" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.5"/>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+				<Input Name="2" expression="13" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Power Name="">
+				<Input Name="0" expression="11" OutputIndex="0"/>
+				<Input Name="1" expression="17" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.2"/>
+			<Multiply Name="">
+				<Input Name="0" expression="2" OutputIndex="0"/>
+				<Input Name="1" expression="16" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<Input Name="BaseColor" expression="7" OutputIndex="0"/>
+		<Input Name="Metallic" expression="18" OutputIndex="0"/>
+		<Input Name="Roughness" expression="6" OutputIndex="0"/>
+		<Input Name="Specular" expression="18" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="cubierta2">
+		<Expressions>
+			<Color Name="Diffuse" constant="(R=0.764706,G=0.764706,B=0.764706,A=1.000000)"/>
+			<Color Name="Reflection" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Desaturation Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</Desaturation>
+			<Scalar Name="Reflection_Glossiness" constant="0.5"/>
+			<TextureObjectParameter Name="Bump_Map">
+				<KeyValueProperty name="Texture" type="Texture" val="ts-zoom-l-RHD-II-225-side_2_2_Tex"/>
+			</TextureObjectParameter>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.NormalFromHeightmap">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="2" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+			<Scalar Name="" constant="0.001"/>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.BreakOutFloat3Components">
+				<Input Name="0" expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<Multiply Name="">
+				<Input Name="0" expression="7" OutputIndex="0"/>
+				<Input Name="1" expression="9" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="Normal_Intensity" constant="-1.0"/>
+			<Multiply Name="">
+				<Input Name="0" expression="7" OutputIndex="1"/>
+				<Input Name="1" expression="9" OutputIndex="0"/>
+			</Multiply>
+			<AppendVector Name="">
+				<Input Name="0" expression="8" OutputIndex="0"/>
+				<Input Name="1" expression="10" OutputIndex="0"/>
+			</AppendVector>
+			<DotProduct Name="">
+				<Input Name="0" expression="11" OutputIndex="0"/>
+				<Input Name="1" expression="11" OutputIndex="0"/>
+			</DotProduct>
+			<OneMinus Name="">
+				<Input Name="0" expression="12" OutputIndex="0"/>
+			</OneMinus>
+			<Saturate Name="">
+				<Input Name="0" expression="13" OutputIndex="0"/>
+			</Saturate>
+			<SquareRoot Name="">
+				<Input Name="0" expression="14" OutputIndex="0"/>
+			</SquareRoot>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.MakeFloat3">
+				<Input Name="0" expression="8" OutputIndex="0"/>
+				<Input Name="1" expression="10" OutputIndex="0"/>
+				<Input Name="2" expression="15" OutputIndex="0"/>
+			</FunctionCall>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="3" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<Input Name="0" expression="17" OutputIndex="0"/>
+			</OneMinus>
+			<Power Name="">
+				<KeyValueProperty name="ConstExponent" type="Float" val="1.500000"/>
+				<Input Name="0" expression="18" OutputIndex="0"/>
+			</Power>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="28" OutputIndex="0"/>
+				<Input Name="2" expression="2" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Fresnel_IOR" constant="1.6"/>
+			<Scalar Name="" constant="-1.0"/>
+			<Add Name="">
+				<Input Name="0" expression="21" OutputIndex="0"/>
+				<Input Name="1" expression="22" OutputIndex="0"/>
+			</Add>
+			<Multiply Name="">
+				<Input Name="0" expression="23" OutputIndex="0"/>
+				<Input Name="1" expression="25" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="" constant="0.02"/>
+			<Power Name="">
+				<Input Name="0" expression="24" OutputIndex="0"/>
+				<Input Name="1" expression="27" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.5"/>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+				<Input Name="2" expression="26" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Power Name="">
+				<Input Name="0" expression="24" OutputIndex="0"/>
+				<Input Name="1" expression="30" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.2"/>
+			<Multiply Name="">
+				<Input Name="0" expression="2" OutputIndex="0"/>
+				<Input Name="1" expression="29" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<Input Name="BaseColor" expression="20" OutputIndex="0"/>
+		<Input Name="Metallic" expression="31" OutputIndex="0"/>
+		<Input Name="Roughness" expression="19" OutputIndex="0"/>
+		<Input Name="Specular" expression="31" OutputIndex="0"/>
+		<Input Name="Normal" expression="16" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="15_-_Default">
+		<Expressions>
+			<Texture Name="Diffuse" PathName="llanta_2_199978_Tex">
+			</Texture>
+			<Texture Name="Reflection" PathName="llanta_2_199978_Tex">
+			</Texture>
+			<Max Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="2"/>
+			</Max>
+			<Max Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="1"/>
+			</Max>
+			<Scalar Name="Reflection_Glossiness" constant="1.0"/>
+			<Multiply Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="4" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<Input Name="0" expression="5" OutputIndex="0"/>
+			</OneMinus>
+			<Power Name="">
+				<KeyValueProperty name="ConstExponent" type="Float" val="1.500000"/>
+				<Input Name="0" expression="6" OutputIndex="0"/>
+			</Power>
+			<Multiply Name="">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="9" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<Input Name="0" expression="2" OutputIndex="0"/>
+			</OneMinus>
+			<Add Name="">
+				<Input Name="0" expression="8" OutputIndex="0"/>
+				<Input Name="1" expression="11" OutputIndex="0"/>
+			</Add>
+			<Multiply Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+				<Input Name="1" expression="2" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<Input Name="BaseColor" expression="10" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="7" OutputIndex="0"/>
+		<Input Name="Specular" expression="2" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
